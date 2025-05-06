@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="de">
 <head>
   <meta charset="UTF-8">
@@ -60,7 +60,7 @@
   <h1>LearnGermanwithMaja</h1>
 
   <!-- Bild von dir -->
-  <img src="c:\Users\majaf\OneDrive\Desktop\Italki\foto maja.jpg" alt="foto maja">
+  <img src="c: maja.jpg" alt="foto maja">
 
   <!-- Vorstellung -->
   <h2 class="section">Vorstellung</h2>
