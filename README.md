@@ -60,7 +60,7 @@
   <h1>LearnGermanwithMaja</h1>
 
   <!-- Bild von dir -->
-  <img src="foto-maja.jpg" alt="Foto Maja">
+  <img src="foto%20maja.jpg" alt="Foto Maja">
 
   <!-- Vorstellung -->
   <h2 class="section">Vorstellung</h2>
